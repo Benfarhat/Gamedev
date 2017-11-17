@@ -9,6 +9,8 @@ Source for simple javascript games
 - [ ] space shoot
 - [ ] task 5
 
+### Demo 
+- [Snake](https://benfarhat.github.io/Gamedev/snake.html)
 ### License
 MIT
 
