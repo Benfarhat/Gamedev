@@ -7,7 +7,7 @@ Source for simple javascript games
 - [ ] tennis
 - [ ] breakout
 - [ ] space shoot
-- [ ] task 5
+- [ ] League of Legends :)
 
 ### Demo 
 - [Snake](https://benfarhat.github.io/Gamedev/snake.html)
